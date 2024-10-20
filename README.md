@@ -52,6 +52,7 @@ npm run docs
 
 ## 프로젝트 구조
 
+```
 react-toolkit-playground/
 ├── src/
 │   ├── components/
@@ -62,3 +63,4 @@ react-toolkit-playground/
 ├── .prettierrc
 ├── vite.config.ts
 └── tsconfig.json
+```
